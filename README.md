@@ -1,4 +1,6 @@
-# Rust Android Gradle Plugin
+# Rust Android Gradle Plugin (Deprecated)
+
+> This project is now deprecated in favor of https://github.com/mozilla/rust-android-gradle
 
 Cross compiles rust cargo projects for Android
 
